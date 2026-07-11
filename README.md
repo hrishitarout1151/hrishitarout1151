@@ -12,7 +12,11 @@
 - ⚡ Fun fact: I've interned in both Data Analytics (CTTC Bhubaneswar) and Full-Stack Development (Web Bocket)
 
 ### 🛠️ Technical Arsenal
-Python | C++ | SQL | PowerShell | Power BI | Tableau | Microsoft Excel | HTML | CSS | JavaScript | Wireshark | Splunk | Hashcat | Hydra | Nmap
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,powershell,html,css,js,git,github,wireshark" />
+</p>
+
+`Power BI` `Tableau` `Microsoft Excel` `Splunk` `Hashcat` `Hydra` `Nmap`
 
 ### 🏅 Badges & Certifications
 
