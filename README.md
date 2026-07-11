@@ -14,13 +14,6 @@
 ### 🛠️ Technical Arsenal
 Python | C++ | SQL | PowerShell | Power BI | Tableau | Microsoft Excel | HTML | CSS | JavaScript | Wireshark | Splunk | Hashcat | Hydra | Nmap
 
-### 📊 GitHub Stats
-![Hrishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishitarout1151&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishitarout1151&layout=compact&theme=radical)
-
----
-
 ### 🏅 Badges & Certifications
 
 ![Cisco](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco)
