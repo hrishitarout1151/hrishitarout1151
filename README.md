@@ -42,9 +42,6 @@ Python | C++ | SQL | PowerShell | Power BI | Tableau | Microsoft Excel | HTML | 
 
 ### 🔗 Connect With Me
 
-[
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-
-](https://linkedin.com/in/hrishita-rout-07a59380)
+(https://linkedin.com/in/hrishita-rout-07a59380)
 </div>
