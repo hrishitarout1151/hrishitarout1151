@@ -13,7 +13,7 @@
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,powershell,html,css,js,git,github,wireshark,Power BI` `Tableau` `Microsoft Excel` `Splunk` `Hashcat` `Hydra` `Nmap" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,powershell,html,css,js,git,github,wireshark/>
 </p>
 
 `Power BI` `Tableau` `Microsoft Excel` `Splunk` `Hashcat` `Hydra` `Nmap`
