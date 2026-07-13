@@ -13,14 +13,11 @@
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,powershell,html,css,js,git,github,wireshark/>
+<img src="https://skillicons.dev/icons?i=python,mysql,powershell,html,css,js,git,github,wireshark"/>
 </p>
-
 `Power BI` `Tableau` `Microsoft Excel` `Splunk` `Hashcat` `Hydra` `Nmap`
 
 ### 🏅 Badges & Certifications
-
-![Cisco](https://www.credly.com/badges/6974a4e9-2593-46fa-a3e1-05e9252df43c/public_url)
 
 ![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
 
