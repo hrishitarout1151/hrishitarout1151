@@ -37,15 +37,6 @@
 - 🎓 **NSE 1 – Introduction to the Threat Landscape 3.0** — Fortinet *(Issued Mar 2026)*
 - 🎓 **NSE 2 – Technical Introduction to Cybersecurity 3.0** — Fortinet *(Issued Jun 2026)*
 
----
-
-- 🎓 **CyberOps Associate** — Cisco Networking Academy *(Issued Mar 2026)*
-- 🎓 **Introduction to Cybersecurity** — Cisco *(Issued Oct 2025)*
-- 🎓 **Fortinet Certified Fundamentals in Cybersecurity** — Fortinet *(Expires Apr 2028)*
-- 🎓 **NSE 1 – Getting Started in Cybersecurity 3.0** — Fortinet *(Issued Apr 2026)*
-- 🎓 **NSE 1 – Introduction to the Threat Landscape 3.0** — Fortinet *(Issued Mar 2026)*
-- 🎓 **NSE 2 – Technical Introduction to Cybersecurity 3.0** — Fortinet *(Issued Jun 2026)*
-
 ### 🔗 Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
