@@ -2,7 +2,9 @@
 # Hey, I am Hrishita Rout.🙋🏻‍♀️
 # B.Tech CSE Student🎓
 ## Cybersecurity Enthusiast🛡️ | Data Analyst📊
-- **Big Dreams. Bigger Determination**
+<p align="center">
+  <b>Big Dreams. Bigger Determination.</b>
+</p>
 
 ### ABOUT ME 
 - 🔭 Currently building my cybersecurity portfolio & sharpening blue-team skills
