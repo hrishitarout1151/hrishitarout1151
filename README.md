@@ -23,7 +23,9 @@
 
 [![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/4139f8d3-b8d9-47d7-adf9-63a97b89d265/public_url)
 
-[![Fortinet](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/9013bf1f-4d7e-4a34-ba1b-6dab055a9c7f/public_url)
+[![Fortinet](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/9fd206c8-7ce0-49d4-8215-24e91ec67fb8/public_url)
+
+[![Fortinet](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/9013bf1f-4d7e-4a34-ba1b-6dab055a9c7f/public_url)
 
 [![Fortinet](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/58b10895-0a9e-42c3-9ce6-0426d8da247a/public_url)
 
