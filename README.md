@@ -21,13 +21,13 @@
 
 [![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/6974a4e9-2593-46fa-a3e1-05e9252df43c/public_url)]
 
-![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
+[![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/4139f8d3-b8d9-47d7-adf9-63a97b89d265/public_url)]
 
-![Fortinet](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet)
+[![Fortinet](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/9013bf1f-4d7e-4a34-ba1b-6dab055a9c7f/public_url)]
 
-![Fortinet](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet)
+[![Fortinet](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/58b10895-0a9e-42c3-9ce6-0426d8da247a/public_url)]
 
-![Fortinet](https://img.shields.io/badge/Fortinet-NSE%202-EE3124?style=for-the-badge&logo=fortinet)
+[![Fortinet](https://img.shields.io/badge/Fortinet-NSE%202-EE3124?style=for-the-badge&logo=fortinet)](https://www.credly.com/badges/2f864367-dc4b-41d6-ad37-ba9ff3947a52/public_url)]
 
 - 🎓 **CyberOps Associate** — Cisco Networking Academy *(Issued Mar 2026)*
 - 🎓 **Introduction to Cybersecurity** — Cisco *(Issued Oct 2025)*
