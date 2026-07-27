@@ -19,7 +19,7 @@
 
 ### 🏅 Badges & Certifications
 
-![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/6974a4e9-2593-46fa-a3e1-05e9252df43c/public_url)
+[![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/6974a4e9-2593-46fa-a3e1-05e9252df43c/public_url)]
 
 [![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/4139f8d3-b8d9-47d7-adf9-63a97b89d265/public_url)]
 
